@@ -1,0 +1,4 @@
+oletools>=0.60.1
+colorclass>=2.2.0
+easygui>=0.98
+msoffcrypto-tool>=5.0.0
